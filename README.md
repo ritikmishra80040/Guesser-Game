@@ -1,2 +1,0 @@
-# Guesser-Game
-Guesser game
